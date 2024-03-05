@@ -1,2 +1,2 @@
-# lua-games
-Simple array of games using lua luvit and its extended modules.
+# lua-dump
+Simple collection of lua projects using [luvit](https://luvit.io)
